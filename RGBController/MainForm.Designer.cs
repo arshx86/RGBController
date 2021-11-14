@@ -103,7 +103,7 @@ namespace RGBController
             this.DeveloperButton.Primary = true;
             this.DeveloperButton.Size = new System.Drawing.Size(175, 36);
             this.DeveloperButton.TabIndex = 1;
-            this.DeveloperButton.Text = "Developed by Majdev";
+            this.DeveloperButton.Text = "Developed by FKG";
             this.DeveloperButton.UseVisualStyleBackColor = true;
             this.DeveloperButton.Click += new System.EventHandler(this.DeveloperButton_Click);
             // 
